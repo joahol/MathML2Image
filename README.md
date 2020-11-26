@@ -13,3 +13,4 @@ Configuration:
 - Configure scaling size of the symbols.
 - Configure output size of the images.
 
+No binaries are supplied for this project.
