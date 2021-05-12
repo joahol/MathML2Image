@@ -13,4 +13,11 @@ Configuration:
 - Configure scaling size of the symbols.
 - Configure output size of the images.
 
+Dependency:
+- OpenCV Binaries
+
+
 No binaries are supplied for this project.
+
+Currently this projects is in need for a cleanup, as this project was experimental it contains a big chunk of irrelevant code.
+
